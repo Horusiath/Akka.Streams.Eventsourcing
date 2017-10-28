@@ -1,0 +1,11 @@
+D:\projects\dev\akka\Akka.Streams.Eventsourcing\Akka.Streams.Eventsourcing.Tests\bin\Debug\netstandard2.0\Akka.Streams.Eventsourcing.Tests.deps.json
+D:\projects\dev\akka\Akka.Streams.Eventsourcing\Akka.Streams.Eventsourcing.Tests\bin\Debug\netstandard2.0\Akka.Streams.Eventsourcing.Tests.dll
+D:\projects\dev\akka\Akka.Streams.Eventsourcing\Akka.Streams.Eventsourcing.Tests\obj\Debug\netstandard2.0\Akka.Streams.Eventsourcing.Tests.csprojResolveAssemblyReference.cache
+D:\projects\dev\akka\Akka.Streams.Eventsourcing\Akka.Streams.Eventsourcing.Tests\obj\Debug\netstandard2.0\Akka.Streams.Eventsourcing.Tests.csproj.CoreCompileInputs.cache
+D:\projects\dev\akka\Akka.Streams.Eventsourcing\Akka.Streams.Eventsourcing.Tests\obj\Debug\netstandard2.0\Akka.Streams.Eventsourcing.Tests.AssemblyInfoInputs.cache
+D:\projects\dev\akka\Akka.Streams.Eventsourcing\Akka.Streams.Eventsourcing.Tests\obj\Debug\netstandard2.0\Akka.Streams.Eventsourcing.Tests.AssemblyInfo.cs
+D:\projects\dev\akka\Akka.Streams.Eventsourcing\Akka.Streams.Eventsourcing.Tests\bin\Debug\netstandard2.0\Akka.Streams.Eventsourcing.Tests.pdb
+D:\projects\dev\akka\Akka.Streams.Eventsourcing\Akka.Streams.Eventsourcing.Tests\bin\Debug\netstandard2.0\Akka.Streams.Eventsourcing.dll
+D:\projects\dev\akka\Akka.Streams.Eventsourcing\Akka.Streams.Eventsourcing.Tests\bin\Debug\netstandard2.0\Akka.Streams.Eventsourcing.pdb
+D:\projects\dev\akka\Akka.Streams.Eventsourcing\Akka.Streams.Eventsourcing.Tests\obj\Debug\netstandard2.0\Akka.Streams.Eventsourcing.Tests.dll
+D:\projects\dev\akka\Akka.Streams.Eventsourcing\Akka.Streams.Eventsourcing.Tests\obj\Debug\netstandard2.0\Akka.Streams.Eventsourcing.Tests.pdb

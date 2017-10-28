@@ -1,0 +1,15 @@
+D:\projects\dev\contrib\Akka.Streams.Eventsourcing\Akka.Streams.Eventsourcing\bin\Debug\netstandard2.0\Akka.Streams.Eventsourcing.deps.json
+D:\projects\dev\contrib\Akka.Streams.Eventsourcing\Akka.Streams.Eventsourcing\bin\Debug\netstandard2.0\Akka.Streams.Eventsourcing.dll
+D:\projects\dev\contrib\Akka.Streams.Eventsourcing\Akka.Streams.Eventsourcing\obj\Debug\netstandard2.0\Akka.Streams.Eventsourcing.csprojResolveAssemblyReference.cache
+D:\projects\dev\contrib\Akka.Streams.Eventsourcing\Akka.Streams.Eventsourcing\obj\Debug\netstandard2.0\Akka.Streams.Eventsourcing.csproj.CoreCompileInputs.cache
+D:\projects\dev\contrib\Akka.Streams.Eventsourcing\Akka.Streams.Eventsourcing\obj\Debug\netstandard2.0\Akka.Streams.Eventsourcing.AssemblyInfoInputs.cache
+D:\projects\dev\contrib\Akka.Streams.Eventsourcing\Akka.Streams.Eventsourcing\obj\Debug\netstandard2.0\Akka.Streams.Eventsourcing.AssemblyInfo.cs
+D:\projects\dev\akka\Akka.Streams.Eventsourcing\Akka.Streams.Eventsourcing\bin\Debug\netstandard2.0\Akka.Streams.Eventsourcing.deps.json
+D:\projects\dev\akka\Akka.Streams.Eventsourcing\Akka.Streams.Eventsourcing\bin\Debug\netstandard2.0\Akka.Streams.Eventsourcing.dll
+D:\projects\dev\akka\Akka.Streams.Eventsourcing\Akka.Streams.Eventsourcing\bin\Debug\netstandard2.0\Akka.Streams.Eventsourcing.pdb
+D:\projects\dev\akka\Akka.Streams.Eventsourcing\Akka.Streams.Eventsourcing\obj\Debug\netstandard2.0\Akka.Streams.Eventsourcing.csprojResolveAssemblyReference.cache
+D:\projects\dev\akka\Akka.Streams.Eventsourcing\Akka.Streams.Eventsourcing\obj\Debug\netstandard2.0\Akka.Streams.Eventsourcing.csproj.CoreCompileInputs.cache
+D:\projects\dev\akka\Akka.Streams.Eventsourcing\Akka.Streams.Eventsourcing\obj\Debug\netstandard2.0\Akka.Streams.Eventsourcing.AssemblyInfoInputs.cache
+D:\projects\dev\akka\Akka.Streams.Eventsourcing\Akka.Streams.Eventsourcing\obj\Debug\netstandard2.0\Akka.Streams.Eventsourcing.AssemblyInfo.cs
+D:\projects\dev\akka\Akka.Streams.Eventsourcing\Akka.Streams.Eventsourcing\obj\Debug\netstandard2.0\Akka.Streams.Eventsourcing.dll
+D:\projects\dev\akka\Akka.Streams.Eventsourcing\Akka.Streams.Eventsourcing\obj\Debug\netstandard2.0\Akka.Streams.Eventsourcing.pdb
